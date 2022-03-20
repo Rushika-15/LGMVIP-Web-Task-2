@@ -1,2 +1,2 @@
 # Simple_Calculator
-Simple Calculator using HTML, CSS and JavaScript.
+Intermediate Level Task 2 - Create A Calculator using HTML, CSS, Js.
